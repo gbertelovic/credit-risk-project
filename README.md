@@ -22,6 +22,10 @@ Podaci su očišćeni i obrađeni:
 - popunjene nedostajuće vrijednosti
 - uklonjeni nelogični podaci
 
+## Dataset
+Dataset korišten u projektu predstavlja sintetički generirane podatke koji simuliraju profil klijenata u kontekstu procjene kreditnog rizika. Podaci uključuju tipične varijable koje se koriste u financijskom sektoru, poput visine primanja, iznosa duga, radnog staža i kreditne povijesti.
+Ciljana varijabla definirana je na temelju kombinacije odabranih atributa, čime se simulira pojednostavljeni model procjene rizičnosti klijenta. Ovakav pristup omogućuje razvoj i testiranje modela strojnog učenja u kontroliranim uvjetima.
+
 ## Ciljna varijabla
 Ciljna varijabla (Rizik) nije postojala u datasetu, već je definirana na temelju:
 - omjera duga i primanja
